@@ -1,3 +1,5 @@
+#Scrabble
+
 word = input('Enter a word: ')
 special = input('Enter \'t\' for triple word and \'d\' for double word: ')
 

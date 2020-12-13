@@ -1,3 +1,5 @@
+#Hamming
+
 x = 'GAGCCTACTAACGGGAT'
 y = 'CATCGTAATGACGGCCT'
 count = 0

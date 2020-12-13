@@ -1,3 +1,5 @@
+#Acronym
+
 name = input('Enter the name: ')
 
 l_name = name.split()

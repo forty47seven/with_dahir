@@ -1,3 +1,5 @@
+#Word Count
+
 text = 'Now this is going to Be the one TO be but IS it going tO keep up NOW or loose it\'s momentum'
 l_text = text.split()
 d_text = {}

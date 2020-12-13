@@ -1,3 +1,5 @@
+#Run Length Encoding
+
 text = input('Enter a text: ')
 
 pos = 0

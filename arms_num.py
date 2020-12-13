@@ -1,3 +1,5 @@
+#Armstrong Number
+
 num = input('Enter a number to test: ')
 sum = 0
 

@@ -1,3 +1,5 @@
+#Luhn
+
 cc_num = input('Enter Credit Card Number: ')
 
 num_list = []

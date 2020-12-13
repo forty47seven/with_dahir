@@ -1,3 +1,5 @@
+#Pangram
+
 sentence = input('Enter a sentence: ')
 sent = sentence.lower()
 

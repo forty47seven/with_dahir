@@ -1,3 +1,5 @@
+#Tornament
+
 table = {'chelsea': 0, 'man utd': 0, 'arsenal': 0, 'liverpool': 0}
 
 result = input('Enter result in this format: home team;away team;win/loose/draw for home team (no spaces beforw semi colon)\ne.g. chelsea;man utd;win: ')

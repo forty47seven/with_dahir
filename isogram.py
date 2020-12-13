@@ -1,3 +1,5 @@
+#Isogram
+
 text = input('Enter a word: ')
 count = 0
 

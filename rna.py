@@ -1,3 +1,5 @@
+#RNA Transcription
+
 rna = {'G': 'G --> C', 'C': 'C --> G', 'T': 'T --> A', 'A': 'A --> U'}
 
 dna = input('Enter dna nucleotide: ')

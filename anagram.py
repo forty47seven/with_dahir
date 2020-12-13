@@ -1,3 +1,5 @@
+#Anagram
+
 word = input('Emter main word: ')
 cand = input('Enter candidate, separated with spaces: ')
 l_cand = cand.split()

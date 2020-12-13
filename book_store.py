@@ -1,3 +1,5 @@
+#Book Store
+
 book_list = ['Harry Potter: ', 'Bourne: ', 'Lord of the Rings: ', 'The Broker: ', 'Hamlet: ']
 
 print ('We have five books for you\nYou get 5 percent discount if you buy 2 different titles\n10 percent for 3\n20 percent for 4\n25 for all 5\nEnter the amount of each book you want')

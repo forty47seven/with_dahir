@@ -1,3 +1,5 @@
+#Gigaseconds
+
 print ('Using 30 days for a month and 365 days for a year (even for the dacade calculations)\nFor a more pricise value use days conversion or at most weeks')
 time = input('Enter time (with unit and space between): ')
 
