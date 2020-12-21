@@ -1,6 +1,6 @@
 #Meetup
 
-meet = input('Enter meet up date in format in December 2020:\nFormat: First Monday of December 2020\n')
+meet = input('Enter meet up date in December 2020:\nFormat: First Monday of December 2020\n')
 meet = meet.lower()
 
 l_meet = meet.split()
